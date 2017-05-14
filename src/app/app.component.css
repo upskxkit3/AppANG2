@@ -1,0 +1,30 @@
+.leftSide {
+  float: left;
+  width: 271px;
+  height: 800px;
+  background: #2B2F3E; }
+  .leftSide h1 {
+    margin-top: 19px;
+    padding-left: 26px;
+    font-size: 33px;
+    color: #565A69;
+    font-family: 'Open Sans', sans-serif;
+    /* font-weight: 300; */
+    margin-bottom: 68px; }
+  .leftSide ul li {
+    height: 57px;
+    line-height: 54px;
+    text-indent: 26px;
+    cursor: pointer;
+    width: 100%;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px; }
+
+.fleft {
+  float: left; }
+
+.currentPage {
+  background: linear-gradient(90deg, #FF2D5C, #FF404B); }
+
+/*# sourceMappingURL=app.component.css.map */
